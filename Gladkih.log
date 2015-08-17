@@ -1,0 +1,5951 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.15)  30 JUN 2015 10:28
+entering extended mode
+**Gladkih.tex
+("E:\РРЅСЃС‚РёС‚СѓС‚\РљСѓСЂСЃРѕРІР°СЏ 4 РєСѓСЂСЃ\CourseWorkIV\Gladkih.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Math\MiKTeX 2.9\tex\latex\extsizes\extarticle.cls"
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+("C:\Math\MiKTeX 2.9\tex\latex\extsizes\size14.clo"
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Math\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Math\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Math\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Math\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+("C:\Math\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Math\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Math\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Math\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Math\MiKTeX 2.9\tex\latex\amsfonts\eucal.sty"
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+("C:\Math\MiKTeX 2.9\tex\latex\floatflt\floatflt.sty"
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count99
+\figbox=\box28
+\tabbox=\box29
+\pagebox=\box30
+\ffigcount=\count100
+\ftabcount=\count101
+\fftest=\count102
+\hangcount=\count103
+\nosuccesstryfig=\count104
+\nosuccesstrytab=\count105
+\figgutter=\dimen113
+\tabgutter=\dimen114
+\htdone=\dimen115
+\pageht=\dimen116
+\startpageht=\dimen117
+\tabbredd=\dimen118
+\floatfltwidth=\dimen119
+\fltitemwidth=\dimen120
+\outputpretest=\toks19
+)
+("C:\Math\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count106
+\LTcapwidth=\dimen121
+\LT@head=\box31
+\LT@firsthead=\box32
+\LT@foot=\box33
+\LT@lastfoot=\box34
+\LT@cols=\count107
+\LT@rows=\count108
+\c@LT@tables=\count109
+\c@LT@chunks=\count110
+\LT@p@ftn=\toks20
+)
+("C:\Math\MiKTeX 2.9\tex\latex\diagbox\diagbox.sty"
+Package: diagbox 2011/11/23 v2.0 Making table heads with diagonal lines
+
+("C:\Math\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Math\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty"
+Package: pict2e 2011/04/05 v0.2y Improved picture commands (HjG,RN,JT)
+
+("C:\Math\MiKTeX 2.9\tex\latex\00miktex\pict2e.cfg"
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+
+("C:\Math\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Math\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Math\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count111
+)
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+("C:\Math\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def"
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+)
+("C:\Math\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks22
+\@arclen=\dimen122
+\@arcrad=\dimen123
+\@tempdimd=\dimen124
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Math\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count112
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count113
+\FP@xia=\count114
+\FP@xib=\count115
+\FP@xfa=\count116
+\FP@xfb=\count117
+\FP@rega=\count118
+\FP@regb=\count119
+\FP@regs=\count120
+\FP@times=\count121
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count122
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Math\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+))
+\diagbox@boxa=\box35
+\diagbox@boxb=\box36
+\diagbox@boxm=\box37
+\diagbox@wd=\dimen125
+\diagbox@ht=\dimen126
+\diagbox@sepl=\dimen127
+\diagbox@sepr=\dimen128
+)
+("C:\Math\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Math\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Math\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+("C:\Math\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Math\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count123
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box38
+\rot@mess@toks=\toks23
+)
+("C:\Math\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+
+("C:\Math\MiKTeX 2.9\tex\latex\cyrillic\cp1251.def"
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+("C:\Math\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Math\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+("C:\Math\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Math\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Math\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Math\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+("C:\Math\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count124
+\U@D=\dimen131
+)
+Package babel Info: Making " an active character on input line 199.
+))
+("C:\Math\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Math\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Math\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box39
+\UL@hyphenbox=\box40
+\UL@skip=\skip52
+\UL@hook=\toks26
+\UL@height=\dimen132
+\UL@pe=\count125
+\UL@pixel=\dimen133
+\ULC@box=\box41
+Package: ulem 2012/05/18
+\ULdepth=\dimen134
+)
+("C:\Math\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen135
+\extrarowheight=\dimen136
+\NC@list=\toks27
+\extratabsurround=\skip53
+\backup@length=\skip54
+)
+\c@condition=\count126
+
+("C:\Math\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen137
+\WF@size=\dimen138
+\c@WF@wrappedlines=\count127
+\WF@box=\box42
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Math\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Math\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen139
+\enit@toks=\toks29
+\enit@inbox=\box43
+\enitdp@description=\count128
+)
+("C:\Math\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip56
+\cftbeforetoctitleskip=\skip57
+\cftaftertoctitleskip=\skip58
+\cftbeforepartskip=\skip59
+\cftpartnumwidth=\skip60
+\cftpartindent=\skip61
+\cftbeforesecskip=\skip62
+\cftsecindent=\skip63
+\cftsecnumwidth=\skip64
+\cftbeforesubsecskip=\skip65
+\cftsubsecindent=\skip66
+\cftsubsecnumwidth=\skip67
+\cftbeforesubsubsecskip=\skip68
+\cftsubsubsecindent=\skip69
+\cftsubsubsecnumwidth=\skip70
+\cftbeforeparaskip=\skip71
+\cftparaindent=\skip72
+\cftparanumwidth=\skip73
+\cftbeforesubparaskip=\skip74
+\cftsubparaindent=\skip75
+\cftsubparanumwidth=\skip76
+\cftbeforeloftitleskip=\skip77
+\cftafterloftitleskip=\skip78
+\cftbeforefigskip=\skip79
+\cftfigindent=\skip80
+\cftfignumwidth=\skip81
+\c@lofdepth=\count129
+\c@lotdepth=\count130
+\cftbeforelottitleskip=\skip82
+\cftafterlottitleskip=\skip83
+\cftbeforetabskip=\skip84
+\cfttabindent=\skip85
+\cfttabnumwidth=\skip86
+)
+("C:\Math\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/04/14 v3.3-73 Customizing captions (AR)
+
+("C:\Math\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/04/14 v1.5-71 caption3 kernel (AR)
+\captionmargin=\dimen140
+\captionmargin@=\dimen141
+\captionwidth=\dimen142
+\caption@tempdima=\dimen143
+\caption@indent=\dimen144
+\caption@parindent=\dimen145
+\caption@hangindent=\dimen146
+)
+\c@ContinuedFloat=\count131
+Package caption Info: floatflt package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Math\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Math\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count132
+\c@subtable=\count133
+)
+("C:\Math\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip87
+\bibsep=\skip88
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count134
+)
+("C:\Math\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Math\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Math\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Math\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count135
+\Gm@cntv=\count136
+\c@Gm@tempcnt=\count137
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks30
+
+("C:\Math\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+\c@lesson=\count138
+\c@lemma=\count139
+\c@algorithm=\count140
+\c@theorem=\count141
+\c@converse=\count142
+\c@contrary=\count143
+\c@reversetoopposite=\count144
+\c@property=\count145
+\c@example=\count146
+\c@proof=\count147
+\c@statement=\count148
+\c@solution=\count149
+\c@conclusion=\count150
+
+("E:\РРЅСЃС‚РёС‚СѓС‚\РљСѓСЂСЃРѕРІР°СЏ 4 РєСѓСЂСЃ\CourseWorkIV\Gladkih.aux"
+
+Package natbib Warning: Citation `b20' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+ ("C:\Math\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count151
+\scratchdimen=\dimen155
+\scratchbox=\box44
+\nofMPsegments=\count152
+\nofMParguments=\count153
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count154
+\MPscratchDim=\dimen156
+\MPnumerator=\count155
+\makeMPintoPDFobject=\count156
+\everyMPtoPDFconversion=\toks32
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 193.
+("C:\Math\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 193.
+
+("C:\Math\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("E:\РРЅСЃС‚РёС‚СѓС‚\РљСѓСЂСЃРѕРІР°СЏ 4 РєСѓСЂСЃ\CourseWorkIV\Gladkih.toc")
+\tf@toc=\write3
+
+[2]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 237
+.
+ ("C:\Math\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [3] [4] [5]
+Overfull \hbox (1.73624pt too wide) in paragraph at lines 298--299
+[]\T2A/cmr/m/n/14.4 Быстрое, ав-то-ма-ти-зи-ро-ван-ное вы-пол-не-ния ша-гов и п
+ро-вер-ка пра-виль-
+ []
+
+[6]
+Overfull \hbox (4.9475pt too wide) in paragraph at lines 305--307
+[]\T2A/cmr/m/n/14.4 Использование тео-рии П.Я. Галь-пе-ри-на в школь-ном пре-по
+-да-ва-нии встре-
+ []
+
+[7]
+Overfull \hbox (7.63187pt too wide) in paragraph at lines 313--315
+[]\T2A/cmr/m/n/14.4 Согласно Фун-да-мен-таль-но-му яд-ру со-дер-жа-ния об-ще-го
+ об-ра-зо-ва-ния опре-
+ []
+
+[8] [9] [10] [11]
+Overfull \hbox (5.5328pt too wide) in paragraph at lines 424--425
+[]\T2A/cmr/m/n/14.4 Учебники со-от-вет-ству-ют Фе-де-раль-но-му го-су-дар-ствен
+-но-му об-ра-зо-ва-тель-
+ []
+
+[12] [13] [14]
+Overfull \hbox (2.95003pt too wide) in paragraph at lines 498--498
+[]|\T2A/cmtt/m/n/12 Методические
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\T2A/cmtt/m/n/12 Геометрия 7--9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\T2A/cmtt/m/n/12 классы, Л.С,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\T2A/cmtt/m/n/12 Геометрия. 9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\T2A/cmtt/m/n/12 класс, В. Ф.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+[]|\T2A/cmtt/m/n/12 Геометрия. 7--9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+\T2A/cmtt/m/n/12 класс, И. Ф.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+[]|\T2A/cmr/m/sl/12 Структура
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 502--503
+[]|\T2A/cmr/m/n/12 Глава X -- <<Ме-тод
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 Каж-дый па-ра-граф
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 вклю-ча-ет в се-бя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 несколь-ко тем. В
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 кон-це каж-до-го па-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 ра-гра-фа при-ве-ден
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 за-дач-ный ма-те-ри-ал.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 Име-ют-ся при-ме-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 ры ре-ше-ния за-дач,
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 при по-мо-щи но-во-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+\T2A/cmr/m/n/12 го тео-ре-ти-че-ско-го
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 503--504
+\T2A/cmr/m/n/12 де-ле-на на три па-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 503--504
+\T2A/cmr/m/n/12 гра-фов пред-ла-га-ют-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+[]|\T2A/cmr/m/n/12 Глава две-на-дца-тая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 <<Ко-ор-ди-на-ты и
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 век-то-ры>> вклю-ча-ет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 в се-бя несколь-ко
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 ко-то-рых <<Ко-ор-ди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 ме-тод>>. Ука-зан-ный
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 так же те-мы для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 до-пол-ни-тель-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 изу-че-ния: <<Окруж-
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 <<Еще од-но до-ка-за-
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 тель-ство тео-ре-мы о
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 для ре-ше-ния за-дач
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 и от-ве-тов на кон-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+\T2A/cmr/m/n/12 троль-ные во-про-сы
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 507--508
+[]|\T2A/cmr/m/n/12 Разложение век-то-ра
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 по век-то-рам, ко-эф-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 фи-ци-ен-ты раз-ло-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 же-ния, ко-ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 век-то-ров, раз-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 из-ве-де-ние век-то-ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 на чис-ло, радиус-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 ко-ор-ди-нат, ко-ор-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 ди-на-ты се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 от-рез-ка, фор-му-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 ла дли-ны век-то-ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 по его ко-ор-ди-на-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 там, окруж-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 в пря-мо-уголь-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 си-сте-ме ко-ор-ди-нат,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 урав-не-ние пря-мой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+\T2A/cmr/m/n/12 в пря-мо-уголь-ной
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 508--509
+[]|\T2A/cmr/m/n/12 Оси ко-ор-ди-нат, ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ор-ди-на-та се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 от-рез-ка, пря-мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 уголь-ная си-сте-ма
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ко-ор-ди-нат, ось
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ор-ди-нат, век-тор,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 про-ти-во-по-лож-ный
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 нену-ле-во-го век-то-ра,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 рав-ные век-то-ры,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 угол меж-ду век-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 то-ра-ми, урав-не-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 окруж-но-сти, урав-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 не-ние пря-мой, уг-
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ло-вой ко-эф-фи-ци-ент
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 пря-мой, сум-ма век-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 то-ров, ко-ор-ди-на-та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 сумм двух век-то-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ров, кол-ли-не-ар-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 век-то-ры, про-из-ве-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 де-ние век-то-ра на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 чис-ло, ска-ляр-ное
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 про-из-ве-де-ние век-то-
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ров, ко-эф-фи-ци-ен-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 раз-ло-же-ния, отоб-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ра-же-ния плос-ко-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 мет-рия, дви-же-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 плос-ко-сти, па-рал-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 лель-ный пе-ре-нос,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 по-во-рот, цен-траль-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 ная сим-мет-рия,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 центр сим-мет-рии,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
+\T2A/cmr/m/n/12 (го-мо-те-тия), пре-об-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+[]|\T2A/cmr/m/n/12 Координатный и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 век-тор-ный ме-тод.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 про-из-ве-де-ния, Из
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 до-пол-ни-тель-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 ма-те-ри-а-ла: окруж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 ность Апол-ло-ния,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 урав-не-ния пря-мой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 урав-не-ние пря-мой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+\T2A/cmr/m/n/12 про-хо-дя-щей че-рез
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+[]|\T2A/cmr/m/sl/12 Научность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+[]|\T2A/cmr/m/n/12 Публицистический
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+\T2A/cmr/m/n/12 стиль из-ло-же-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+\T2A/cmr/m/n/12 са-мо-сто-я-тель-но-го
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 514--515
+\T2A/cmr/m/n/12 ский стиль из-ло-же-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+[]|\T2A/cmr/m/n/12 Характерен пуб-ли-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 ци-сти-че-ский стиль.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 Ав-то-ры опи-ра-ют-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 на рас-суж-де-ния в
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 тек-сте о той или
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 иной за-да-че. Текст
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 ма-ло на-сы-щен до-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\T2A/cmr/m/n/12 ка-за-тель-ства-ми и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+[]|\T2A/cmr/m/sl/12 Обоснование
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 517--518
+\T2A/cmr/m/sl/12 но-вых по-ня-
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 517--518
+\T2A/cmr/m/sl/12 тий, тео-рем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+[]|\T2A/cmr/m/n/12 Приведены до-ка-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 за-тель-ства лем-мы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 о кол-ли-не-ар-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 век-то-рах, тео-ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 мы о раз-ло-же-нии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 век-то-ра по двум
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 некол-ли-не-ар-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 век-то-рам, свойств
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 сум-мы, раз-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 из-ве-де-ния век-то-ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 на чис-ло. Обос-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 но-ван-ны по-ня-тия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 ко-ор-ди-на-тов век-то-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 ра, ко-эф-фи-ци-ен-тов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 Обос-но-ва-ние по-ня-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 тия радиус-вектор.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 Вы-вод фор-му-лы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 урав-не-ния окруж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 но-сти. Опи-са-ние
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 нат. Ал-геб-ра-и-че-ское
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 обос-но-ва-ние се-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 ре-ди-ны от-рез-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 До-ка-за-тель-ство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 фор-му-лы дли-ны
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 век-то-ра по его ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 ор-ди-на-там. Вы-вод
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 де-ния рас-сто-я-ния
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 меж-ду дву-мя точ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 ка-ми. Рас-смот-ре-на
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 фор-му-ла урав-не-ния
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 окруж-но-сти. Вы-вод
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 урав-не-ния пря-мой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
+\T2A/cmr/m/n/12 в пря-мо-уголь-ной
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 519--520
+[]|\T2A/cmr/m/n/12 Даны по-ня-тия по-
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 лу-осей, ко-ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 то-чек. До-ка-зан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 но утвер-жде-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 о ко-ор-ди-на-тах се-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 ре-ди-ны от-рез-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 на-ча-ла ко-ор-ди-нат,
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 опре-де-ле-ние рав-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 век-то-ров, до-ка-за-
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 тель-ство тео-ре-мы о
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 ние о воз-мож-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 от-ло-же-ния век-то-ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 от лю-бой точ-ки
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 тель-ством. Тео-ре-ма
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 о длине век-то-ра --
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 пря-мой и окруж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 но-сти при-ве-де-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 и рас-смот-рен-ны,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 но не до-ка-зан-ны.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 Рас-смот-ре-но пра-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 ви-ло тре-уголь-ни-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 фор-му-ла ска-ляр-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 но-го про-из-ве-де-ния.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 Тео-ре-ма о раз-ло-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 же-нии век-то-ра на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 некол-ли-не-ар-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 век-то-ра при-ве-де-на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 с до-ка-за-тель-ством,
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 519--520
+\T2A/cmr/m/n/12 ме-тод ко-ор-ди-нат в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+[]|\T2A/cmr/m/n/12 Рассматривается
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 ме-тод ко-ор-ди-нат и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 во-дит-ся урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 пря-мой, урав-не-ние
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 пря-мой про-хо-дя-щей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 че-рез две точ-ки,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 окруж-ность Апол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 ло-ния при-ве-де-на
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 на при-ме-ре за-да-чи.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 При-ме-не-ние кол-ли-
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 не-ар-но-сти век-то-ров
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 при-ме-ре. До-ка-за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 но че-рез ре-ше-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 за-да-чи свой-ство
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 де-ния. Рас-смот-ре-но
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 до-ка-за-тель-ство тео-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 ре-мы о вы-со-тах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 тре-уголь-ни-ка при
+ []
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 520--521
+\T2A/cmr/m/n/12 по-мо-щи век-тор-но-го
+ []
+
+
+Overfull \hbox (2.93611pt too wide) in paragraph at lines 522--523
+[]|\T2A/cmr/m/sl/12 Иллюстрации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\T2A/cmr/m/sl/12 те-ри-а-лу,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\T2A/cmr/m/sl/12 прак-ти-че-
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 522--523
+\T2A/cmr/m/sl/12 ские при-ме-
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 523--524
+[]|\T2A/cmr/m/n/12 Имеются ил-лю-стра-
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 523--524
+\T2A/cmr/m/n/12 му ма-те-ри-а-лу, как
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 523--524
+\T2A/cmr/m/n/12 лю-стра-ции -- цвет-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
+[]|\T2A/cmr/m/n/12 Имеются раз-но-об-
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 524--525
+\T2A/cmr/m/n/12 раз-ны ил-лю-стра-ции
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
+\T2A/cmr/m/n/12 на-зна-че-ния, так и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
+\T2A/cmr/m/n/12 на-прав-лен-ные на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+\T2A/cmr/m/n/12 и ал-геб-ра-и-че-ские
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+\T2A/cmr/m/n/12 ил-лю-стра-ции к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+\T2A/cmr/m/n/12 ле-но ил-лю-стра-ций
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+\T2A/cmr/m/n/12 на-прав-лен-ных на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+\T2A/cmr/m/n/12 опре-де-ле-ние свя-зи
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 528--529
+\T2A/cmr/m/n/12 ре-ти-че-ских во-про-са,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+[]|\T2A/cmr/m/n/12 Богатое раз-но-об-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+\T2A/cmr/m/n/12 ра-зие во-про-сов к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+\T2A/cmr/m/n/12 но-во-му ма-те-ри-а-лу,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+\T2A/cmr/m/n/12 мно-же-ство раз-лич-
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 530--531
+[]|\T2A/cmr/m/n/12 В хо-де из-ло-же-ния
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 530--531
+\T2A/cmr/m/n/12 ри-а-ла пред-ла-га-ют-ся
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 530--531
+\T2A/cmr/m/n/12 на-во-дя-щие во-про-сы.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+[]|\T2A/cmr/m/sl/12 Способы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+\T2A/cmr/m/sl/12 вы-де-ле-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+\T2A/cmr/m/sl/12 в тек-сте
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 533--534
+[]|\T2A/cmr/m/n/12 Материал на ко-то-
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 рый на-до об-ра-тить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 вни-ма-ние вы-де-лен
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 жир-ным тек-стом.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 На-зва-ние гла-вы,
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 на-зва-ние па-ра-гра-фа
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 вы-де-ле-ны цве-том,
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 ков и их на-зва-ния.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 Тео-ре-мы,свойства,
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 след-ствия, ак-си-о-мы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 и ги-по-те-зы вы-де-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 ле-ны в ра-моч-ку.
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 Ос-нов-ные фор-му-лы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 при необ-хо-ди-мо-
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 сти ну-ме-ру-ют-ся. В
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 тек-сте ак-тив-но ис-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 поль-зу-ют-ся ссыл-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 на ил-лю-стра-ции,
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 фор-му-лы, тео-ре-мы,
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 533--534
+\T2A/cmr/m/n/12 след-ствия, ак-си-о-мы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+[]|\T2A/cmr/m/n/12 Название тем, па-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 ра-гра-фов, глав
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 вы-де-ле-ны цве-тов.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 Утвер-жде-ния вы-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 де-лен-ны жир-ным,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 тео-ре-мы пред-ва-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 ря-ют-ся цвет-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 над-пи-сью <<тео-ре-
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 ма>>, до-ка-за-тель-ства
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 фор-му-лы рас-по-ло-
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 тек-сте ак-тив-но ис-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 поль-зу-ют-ся ссыл-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 на изоб-ра-же-ния.
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 534--535
+\T2A/cmr/m/n/12 Неко-то-рые по-ня-тия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+[]|\T2A/cmr/m/n/12 Жирным круп-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 на-зва-ние гла-вы,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 па-ра-гра-фа, те-мы.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 В тео-ре-ти-че-ской
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 ча-сти необ-хо-ди-мые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 по-ня-тия вы-де-ле-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 жир-ным кур-си-вом.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 Вы-ве-ден-ные фор-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 му-лы по-ме-ще-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 в центр. Име-ет-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 гра-фи-че-ское обо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 ви-дов ма-те-ри-а-ла:
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 с по-мо-щью знач-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 <<сне-жин-ка>> обо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 зна-чен ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 не обя-за-тель-ный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 к изу-че-нию, знак
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 оп-ти-че-ско-го дис-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 вы-де-ля-ет ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 пред-став-лен-ный в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 элек-трон-ном при-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 ло-же-нии. Бук-ва-ми
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 <<н>> вы-де-ля-ют на-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 чаль-ные за-да-чи,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 <<в>> со-про-вож-да-ет
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 ва <<п>> зна-чит, что
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 за-да-ча мо-жет быть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 - труд-ная за-да-ча.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 Име-ют-ся ссыл-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 на пред-став-лен-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 гра-фи-че-ские изоб-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 ра-же-ния. Цвет-ных
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 535--536
+\T2A/cmr/m/n/12 ил-лю-стра-ций, вы-де-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[]|\T2A/cmr/m/n/12 Задачи с при-ме-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 ра-ми их ре-ше-ния.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 На на-хож-де-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 ко-эф-фи-ци-ен-тов,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 на до-ка-за-тель-ства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 на по-стро-е-ния, на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 на-хож-де-ния чи-сел
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 удо-вле-тво-ря-ю-щих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 усло-вию, на-хож-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 де-ние ко-ор-ди-нат
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 то-чек, на на-хож-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 де-ние ко-ор-ди-нат
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 век-то-ра, на-хож-де-
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 на-хож-де-ние пло-ща-
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 дей гео-мет-ри-че-ских
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 фи-гур, на-хож-де-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 раз-лич-ных эле-мен-
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 тов гео-мет-ри-че-ских
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 фи-гур, за-да-чи на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 при-над-леж-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 то-чек окруж-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+\T2A/cmr/m/n/12 окруж-но-сти или
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 539--540
+[]|\T2A/cmr/m/n/12 Представлены за-да-
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 чи на на-хож-де-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ко-ор-ди-на-ты точ-
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ки, до-ка-за-тель-ства,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 на-хож-де-ние сто-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 рон раз-лич-ных
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 гео-мет-ри-че-ских фи-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 гур на плос-ко-сти,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 опре-де-ле-ние ви-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 да гео-мет-ри-че-ской
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 фи-гу-ры на плос-ко-
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 сти, на на-хож-де-ние
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 дли-ны век-то-ра, на-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 окруж-но-сти, опре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 де-ле-ние урав-не-ния
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ли-нии, опре-де-ле-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 урав-не-ния пря-мой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 на вза-им-ное рас-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 по-ло-же-ние пря-мой
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 и окруж-но-сти, на-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 хож-де-ния сум-мы,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 раз-но-сти и про-из-
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ве-де-ния век-то-ра на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 чис-ло, на-хож-де-ние
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 век-то-ров по пра-ви-
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 лам па-рал-ле-ло-грам-
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ма и тре-уголь-ни-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 вы-ра-же-ние век-то-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ров че-рез дру-гие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 век-то-ры, на-хож-де-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 ние ко-ор-ди-на-тов
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 век-то-ра, на по-стро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 вы-ра-же-ний, за-да-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 чи на дви-же-ния,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 до-пол-ни-тель-ные
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 539--540
+\T2A/cmr/m/n/12 за-да-чи по-вы-шен-ной
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 540--541
+[]|\T2A/cmr/m/n/12 Представлены за-да-
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 чи на на-хож-де-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 то-чек, за-да-чи на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 до-ка-за-тель-ство, за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 сто-рон тре-уголь-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 ни-ков, за-да-чи на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 на-хож-де-ния уг-лов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 в гео-мет-ри-че-ских
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 на-хож-де-ния рас-
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 сто-я-ния, за-да-чи на
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 на-хож-де-ние се-ре-ди-
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 ны от-рез-ка, за-да-чи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+\T2A/cmr/m/n/12 на на-хож-де-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+[]|\T2A/cmr/m/sl/12 Объем за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
+\T2A/cmr/m/sl/12 дач-но-го
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 544--545
+[]|\T2A/cmr/m/n/12 В учеб-ни-ке до-ста-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 точ-но за-дач для
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 го ма-те-ри-а-ла. Так
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 же учи-тель мо-жет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 вос-поль-зо-вать-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 ди-дак-ти-че-ски-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 ма-те-ри-а-ла-ми пред-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 став-ля-е-мы-ми этим
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 же кол-лек-ти-вом
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 ав-то-ров, где при-ве-
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 544--545
+\T2A/cmr/m/n/12 и для кон-троль-ных
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 545--546
+[]|\T2A/cmr/m/n/12 Суммарно в гла-ве
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 <<Век-то-ры и ко-ор-
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 ди-на-ты>> око-ло 100
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 за-дач. Ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 уров-ней слож-но-сти.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 на пря-мое при-ме-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 ние тео-ре-ти-че-ско-го
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 ма-те-ри-а-ла, есть за-
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 не толь-ко те-ку-щей
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 те-мы, но и преды-
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 за-да-чи по-вы-шен-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 слож-но-сти. Оби-лие
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 во-про-сов к каж-дой
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 пред-ла-га-ют раз-лич-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 ные ме-то-ди-че-ские
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 545--546
+\T2A/cmr/m/n/12 по-со-бия учи-те-лю и
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 ты и век-то-ры>> по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 каж-до-му па-ра-гра-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 фу пред-став-лен-но
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 уров-ню слож-но-сти.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 Ав-то-ры пред-ла-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 га-ют уче-ни-кам и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 пе-да-го-гам ме-то-ди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 че-ские по-со-бия, с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+\T2A/cmr/m/n/12 до-пол-ни-тель-ным
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 548
+ []
+
+[15] [16] [17] [18] [19] [20] [21] [22] [23]
+Overfull \hbox (0.38733pt too wide) in paragraph at lines 558--558
+[]\T2A/cmr/m/n/17.28 Логико-математический ана-лиз те-мы <<Ме-тод ко-ор-ди-нат>
+> 
+ []
+
+[24]
+Overfull \hbox (19.12463pt too wide) in alignment at lines 594--596
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (19.12463pt too wide) in alignment at lines 596--599
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (19.12463pt too wide) in alignment at lines 599--628
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 628
+ []
+
+[25
+
+] [26
+
+]
+Overfull \hbox (19.12463pt too wide) in alignment at lines 657--659
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (19.12463pt too wide) in alignment at lines 659--662
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (19.12463pt too wide) in alignment at lines 662--691
+ [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 691
+ []
+
+[27
+
+] [28
+
+] [29] [30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 806--806
+[]|\T2A/cmtt/m/n/12 Наглядные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
+[]|\T2A/cmtt/m/n/12 Изучение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--807
+\T2A/cmtt/m/n/12 нового
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--807
+[]|\T2A/cmtt/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--807
+\T2A/cmtt/m/n/12 изученного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+[]|\T2A/cmtt/m/n/12 Итоги
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+\T2A/cmtt/m/n/12 урока.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+\T2A/cmtt/m/n/12 Задание на
+ []
+
+
+Overfull \hbox (2.5586pt too wide) in paragraph at lines 816--816
+[]|\T2A/cmr/m/n/12 џ1| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+[]|\T2A/cmr/m/n/12 Разложение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+\T2A/cmr/m/n/12 двум дан-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+\T2A/cmr/m/n/12 некол-ли-не-ар-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+[]|\T2A/cmr/m/n/12 Доказать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 ли-не-ар-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 век-то-рах и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 тео-ре-му о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 раз-ло-же-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 двум некол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 ли-не-ар-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 век-то-рам.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 За-кре-пить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 их зна-че-
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 ние в хо-де
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+\T2A/cmr/m/n/12 ре-ше-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--822
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+[]|\T2A/cmr/m/n/12 Понятие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 па-рал-ле-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 ло-грам-ма,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 диа-го-на-лей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 па-рал-ле-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 ло-грам-ма,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 ра-вен-ство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 век-то-ров,
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 822--823
+\T2A/cmr/m/n/12 сум-ма век-то-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 ли-не-ар-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 век-то-рах.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 До-ка-за-тель-
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 ство лем-мы.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 Тео-ре-ма о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 раз-ло-же-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 двум дан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 ным некол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 ли-не-ар-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 век-то-рам.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 До-ка-за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 тель-ство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 тео-ре-мы.
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 Роль лем-мы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+\T2A/cmr/m/n/12 в до-ка-за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+[]|\T2A/cmr/m/n/12 Решить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+\T2A/cmr/m/n/12 за-да-чи ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+\T2A/cmr/m/n/12 911(а,б);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+\T2A/cmr/m/n/12 912(б,в);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+\T2A/cmr/m/n/12 ќ 915 (по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+\T2A/cmr/m/n/12 го-то-во-му
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+[]|\T2A/cmr/m/n/12 Задание на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+\T2A/cmr/m/n/12 пунк-та 86.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+\T2A/cmr/m/n/12 Ре-шить за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+\T2A/cmr/m/n/12 да-чи: ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+\T2A/cmr/m/n/12 911(в, г);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+\T2A/cmr/m/n/12 912(ж,е,з);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 828--829
+[]|\T2A/cmr/m/n/12 Координаты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+[]|\T2A/cmr/m/n/12 Ввести
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 по-ня-тие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 ко-ор-ди-нат
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 век-то-ра и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 рас-смот-реть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 ствий над
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 век-то-ра-ми с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 за-дан-ны-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+\T2A/cmr/m/n/12 ко-ор-ди-на-та-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+[]|\T2A/cmr/m/n/12 Разложение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+\T2A/cmr/m/n/12 двум некол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+\T2A/cmr/m/n/12 ли-не-ар-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+\T2A/cmr/m/n/12 век-то-рам,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+\T2A/cmr/m/n/12 кол-ли-не-ар-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+[]|\T2A/cmr/m/n/12 Ввести ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 ор-ди-нат-ные
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 век-то-ры $[]\OML/cmm/m/it/12 ; []$\T2A/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 Рас-смот-реть
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 тор в ви-де
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 Его ко-ор-ди-
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 на-ты $[]\OT1/cmr/m/n/12 (0; 0)$\T2A/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 Рас-смот-реть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 пра-ви-ла,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 поз-во-ля-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 ю-щие по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 ко-ор-ди-на-там
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 век-то-ров
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 на-хо-дить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 ко-ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 их сум-мы,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 раз-но-сти и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 про-из-ве-де-
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 833--835
+\T2A/cmr/m/n/12 ния век-то-ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+[]|\T2A/cmr/m/n/12 Решить ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 и в тет-ра-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 сто-я-тель-но,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 ќ 918, ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 920(а,в) --
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 на дос-ке и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 в тет-ра-дях.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 За-пи-сать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 утвер-жде-ние
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 C/р кон-тро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+\T2A/cmr/m/n/12 ли-ру-ю-ще-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+[]|\T2A/cmr/m/n/12 Задание на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 дом: под-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 го-то-вить-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 к уст-но-му
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 опро-су по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 кар-точ-кам,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 по-вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 3158) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 пунк-тов 76--
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 87; от-ве-тить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 на во-про-сы
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 1 -- 20, с.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 213--214 и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 на во-про-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 сы 1--8, с.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 249 учеб-ни-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 ка. Ре-шить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 за-да-чи ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 798; 795;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 990(а)(для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+\T2A/cmr/m/n/12 век-то-ров
+ []
+
+
+Overfull \hbox (2.5586pt too wide) in paragraph at lines 840--840
+[]|\T2A/cmr/m/n/12 џ2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+[]|\T2A/cmr/m/n/12 Связь меж-ду
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+\T2A/cmr/m/n/12 ко-ор-ди-на-та-
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 842--843
+\T2A/cmr/m/n/12 ми век-то-ра и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+\T2A/cmr/m/n/12 ко-ор-ди-на-та-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+\T2A/cmr/m/n/12 его на-ча-ла и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+\T2A/cmr/m/n/12 кон-ца. Про-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+[]|\T2A/cmr/m/n/12 Рассмотреть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 ко-ор-ди-на-та-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 ми век-то-ра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 и ко-ор-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 ди-на-та-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 его на-ча-ла
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 и кон-ца.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 Разо-брать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 за-да-чи о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 на-хож-де-нии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 ко-ор-ди-нат
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 от-рез-ка, о
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 вы-чис-ле-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 нии дли-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 его ко-ор-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 ди-на-там и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 на-хож-де-нии
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+\T2A/cmr/m/n/12 рас-сто-я-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--846
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+[]|\T2A/cmr/m/n/12 Вектор, ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 точ-ки, на-ча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 ло век-то-ра,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 ко-нец век-то-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 ра. Ре-шить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 за-да-чи, вы-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+\T2A/cmr/m/n/12 звав-шие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+[]|\T2A/cmr/m/n/12 Рассмотреть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 по-ня-тие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 радиус-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 вектора.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 Уст-но ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 ќ 934.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 <<Ме-тод ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 ор-ди-нат>>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 -- вспо-мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 га-тель-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 за-да-чи: ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 от-рез-ка;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 вы-чис-ле-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 ние дли-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 его ко-ор-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 ди-на-там;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
+\T2A/cmr/m/n/12 рас-сто-я-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+[]|\T2A/cmr/m/n/12 Решить: ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
+[]|\T2A/cmr/m/n/12 Задание на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
+\T2A/cmr/m/n/12 пунк-тов 88,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
+\T2A/cmr/m/n/12 89; ре-шить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
+[]|\T2A/cmr/m/n/12 Закрепить
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 853--854
+\T2A/cmr/m/n/12 зна-ния уча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
+\T2A/cmr/m/n/12 ре-ше-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
+\T2A/cmr/m/n/12 ре-шать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
+\T2A/cmr/m/n/12 за-да-чи в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
+[]|\T2A/cmr/m/n/12 Урок за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
+\T2A/cmr/m/n/12 креп-ле-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 855--856
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+[]|\T2A/cmr/m/n/12 Векторы,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 ко-ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 век-то-ра и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 ко-ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 его на-ча-ла и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 кон-ца, кол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 ли-не-ар-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 век-то-ры,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 раз-ло-же-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 двум некол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+\T2A/cmr/m/n/12 ли-не-ар-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
+[]|\T2A/cmr/m/n/12 Решить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
+\T2A/cmr/m/n/12 ќ 947(а),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
+\T2A/cmr/m/n/12 948(б),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
+\T2A/cmr/m/n/12 950(б),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+[]|\T2A/cmr/m/n/12 Задание на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+\T2A/cmr/m/n/12 дом: По-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+\T2A/cmr/m/n/12 вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+\T2A/cmr/m/n/12 пунк-тов 88
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+\T2A/cmr/m/n/12 ќ 947(б),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+\T2A/cmr/m/n/12 949(а),
+ []
+
+
+Overfull \hbox (2.5586pt too wide) in paragraph at lines 863--863
+[]|\T2A/cmr/m/n/12 џ3| 
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 866--867
+[]|\T2A/cmr/m/n/12 Уравнение ли-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+[]|\T2A/cmr/m/n/12 Познакомить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 уча-щих-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 с по-ня-ти-ем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 урав-не-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 ли-нии на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 плос-ко-сти.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 Вы-ве-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 окруж-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 и на-учить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 за-пи-сы-вать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 868--869
+[]|\T2A/cmr/m/n/12 Урок изу-че-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--870
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--870
+\T2A/cmr/m/n/12 пре-зен-та-ция,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--870
+\T2A/cmr/m/n/12 кар-точ-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+[]|\T2A/cmr/m/n/12 Координаты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 от-рез-ка, дли-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 на от-рез-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 рав-но-уда-лен-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 ные точ-ки,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 окруж-ность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 тре-уголь-ник,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 се-ре-дин-ный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 пер-пен-ди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 ку-ляр тре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 уголь-ни-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 при-над-леж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 ность точ-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
+\T2A/cmr/m/n/12 гра-фи-ку
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+[]|\T2A/cmr/m/n/12 Разобрать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 пя-тое за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 да-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 дик-тан-та.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 Вспом-нить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 па-ра-бо-лы,
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 их гра-фи-ки.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 По-зна-ко-мить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 про-из-воль-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 ной ли-нии.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 Вве-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 окруж-но-сти.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 Рас-смот-реть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 от-ли-чия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 урав-не-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 эл-лип-са,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
+\T2A/cmr/m/n/12 точ-ки и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+[]|\T2A/cmr/m/n/12 Задание на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+\T2A/cmr/m/n/12 пунк-тов 90,
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 874--875
+\T2A/cmr/m/n/12 91; во-про-сы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+\T2A/cmr/m/n/12 15--17; ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+\T2A/cmr/m/n/12 965, 966(а,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--878
+[]|\T2A/cmr/m/n/12 Уравнение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--878
+\T2A/cmr/m/n/12 окруж-но-сти.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+[]|\T2A/cmr/m/n/12 Закрепить
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 зна-ния уча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 щих-ся в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 хо-де ре-ше-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 ния за-дач.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 Раз-ви-вать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 ло-ги-че-ское
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+\T2A/cmr/m/n/12 мыш-ле-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--881
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+[]|\T2A/cmr/m/n/12 Уравнение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 окруж-но-сти,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 ли-нии. Ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 от-рез-ка, дли-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 на от-рез-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 рав-но-уда-лен-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 ные точ-ки,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 окруж-ность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 тре-уголь-ник,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 се-ре-дин-ный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 пер-пен-ди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 ку-ляр тре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 уголь-ни-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 при-над-леж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 ность точ-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+\T2A/cmr/m/n/12 гра-фи-ку
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--884
+[]|\T2A/cmr/m/n/12 Решить ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--884
+\T2A/cmr/m/n/12 969(а), 970,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
+[]|\T2A/cmr/m/n/12 Задание на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
+\T2A/cmr/m/n/12 дом: По-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
+\T2A/cmr/m/n/12 вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 3158) in paragraph at lines 884--885
+\T2A/cmr/m/n/12 пунк-тов 86--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--885
+\T2A/cmr/m/n/12 969(б), 981,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+[]|\T2A/cmr/m/n/12 Вывести
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 пря-мой и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 по-ка-зать,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 как мож-но
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 ис-поль-зо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 вать это
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 гео-мет-ри-че-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 ских за-дач.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 Раз-ви-вать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 ло-ги-че-ское
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
+\T2A/cmr/m/n/12 мыш-ле-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+\T2A/cmr/m/n/12 пре-зен-та-ция,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+\T2A/cmr/m/n/12 кар-точ-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+[]|\T2A/cmr/m/n/12 Треугольник,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+\T2A/cmr/m/n/12 пря-мая, век-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+\T2A/cmr/m/n/12 тор, ко-ор-ди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+\T2A/cmr/m/n/12 окруж-ность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+\T2A/cmr/m/n/12 ли-ния, от-ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+[]|\T2A/cmr/m/n/12 Уравнение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 пря-мой в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 пря-мо-уголь-
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 ной си-сте-ме
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 ко-ор-ди-нат.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 Урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 пря-мой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
+\T2A/cmr/m/n/12 про-хо-дя-щей
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 893--894
+[]|\T2A/cmr/m/n/12 ќ 972(а), с.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+[]|\T2A/cmr/m/n/12 Задание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 на дом:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 по-вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 91; изу-чить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 пунк-та 92;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 во-про-сы 1--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 21; ре-шить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 ќ 972(б),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 го-то-вить-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\T2A/cmr/m/n/12 к уст-но-му
+ []
+
+
+Overfull \hbox (2.5586pt too wide) in paragraph at lines 898--898
+[]|\T2A/cmr/m/n/12 џ4| 
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 901--902
+[]|\T2A/cmr/m/n/12 Решение за-дач
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+[]|\T2A/cmr/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 зна-ний и
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 уме-ний уча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 щих-ся по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 ма-те-ри-а-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 лу гла-вы.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 Раз-ви-тие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 ло-ги-че-ско-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 мыш-ле-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--903
+\T2A/cmr/m/n/12 уча-щих-ся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--905
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--905
+\T2A/cmr/m/n/12 кар-точ-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+[]|\T2A/cmr/m/n/12 Уравнение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+\T2A/cmr/m/n/12 пря-мой, тре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+\T2A/cmr/m/n/12 уголь-ник,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+\T2A/cmr/m/n/12 пря-мая, век-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+\T2A/cmr/m/n/12 тор, ко-ор-ди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+\T2A/cmr/m/n/12 окруж-ность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+\T2A/cmr/m/n/12 ли-ния, от-ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 907--908
+[]|\T2A/cmr/m/n/12 Решить ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+[]|\T2A/cmr/m/n/12 Задание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 на дом:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 по-вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 пунк-тов 76
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 -- 92; пунк-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 (8 класс);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 ре-шить:
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 908--909
+\T2A/cmr/m/n/12 1010(б), 990,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
+[]|\T2A/cmr/m/n/12 Применение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
+\T2A/cmr/m/n/12 <<Ме-то-да ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
+\T2A/cmr/m/n/12 ор-ди-нат>>.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
+\T2A/cmr/m/n/12 Под-го-тов-ка к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
+\T2A/cmr/m/n/12 кон-троль-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+[]|\T2A/cmr/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 зна-ний и
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 уме-ний уча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 щих-ся по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 ма-те-ри-а-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 лу гла-вы.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 Раз-ви-тие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 ло-ги-че-ско-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 мыш-ле-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+\T2A/cmr/m/n/12 уча-щих-ся
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 913--914
+[]|\T2A/cmr/m/n/12 Урок си-сте-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+\T2A/cmr/m/n/12 обоб-ще-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+\T2A/cmr/m/n/12 зна-ний и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--915
+[]|\T2A/cmr/m/n/12 Материалы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--915
+\T2A/cmr/m/n/12 кар-точ-ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+[]|\T2A/cmr/m/n/12 Разложение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 век-то-ра по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 двум некол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 ли-не-ар-ным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 век-то-рам,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 ко-ор-ди-на-ты
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 се-ре-ди-ны
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 от-рез-ка,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 окруж-но-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 сти, сум-ма
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 и раз-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 век-то-ров,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 урав-не-ние
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 пря-мой, про-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 из-ве-де-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 век-то-ра на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 чис-ло, урав-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 нии, рас-сто-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
+\T2A/cmr/m/n/12 я-ние меж-ду
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+[]|\T2A/cmr/m/n/12 Решить ќ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+\T2A/cmr/m/n/12 1004, 1007,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
+[]|\T2A/cmr/m/n/12 Задание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
+\T2A/cmr/m/n/12 на дом:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
+\T2A/cmr/m/n/12 по-вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
+\T2A/cmr/m/n/12 пунк-тов 76
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 918--919
+\T2A/cmr/m/n/12 -- 92; пунк-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 918--919
+\T2A/cmr/m/n/12 (8 класс);
+ []
+
+
+Overfull \hbox (3.21123pt too wide) in paragraph at lines 921--921
+[]|\T2A/cmr/m/n/12 10| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
+[]|\T2A/cmr/m/n/12 Контрольная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+[]|\T2A/cmr/m/n/12 Проверить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 зна-ния,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 уме-ния и
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 на-вы-ки уча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 щих-ся по
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 усво-е-нию и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 при-ме-не-нию
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+\T2A/cmr/m/n/12 изу-чен-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+[]|\T2A/cmr/m/n/12 Карточки с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+\T2A/cmr/m/n/12 за-да-ни-я-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+\T2A/cmr/m/n/12 для кон-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
+\T2A/cmr/m/n/12 троль-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
+[]|\T2A/cmr/m/n/12 Контрольная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
+\T2A/cmr/m/n/12 ра-бо-та (4
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
+[]|\T2A/cmr/m/n/12 Задание
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
+\T2A/cmr/m/n/12 на дом:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
+\T2A/cmr/m/n/12 по-вто-рить
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
+\T2A/cmr/m/n/12 ма-те-ри-ал
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 928--929
+\T2A/cmr/m/n/12 87; от-ве-тить
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 930
+ []
+
+[32
+
+] [33] [34] [35] [36] [37] [38] [39] [40] [41]
+Overfull \hbox (9.6409pt too wide) in paragraph at lines 944--945
+[]\T2A/cmr/m/it/14.4 развивающие: \T2A/cmr/m/n/14.4 ак-ти-ви-за-ция мыс-ли-тель
+-ной де-я-тель-но-сти уча-щих-ся, раз-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 962--962
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 962--962
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 962--963
+[]|\T2A/cmtt/m/n/12 Время
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 962--963
+\T2A/cmtt/m/n/12 (мин)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+\T2A/cmr/m/n/12 ционный мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+[]|\T2A/cmr/m/n/12 Приветствие,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+\T2A/cmr/m/n/12 про-вер-ка от-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+\T2A/cmr/m/n/12 сут-ству-ю-щих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
+\T2A/cmr/m/n/12 и го-тов-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--968
+[]|\T2A/cmr/m/n/12 Отчет де-жур-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
+[]|\T2A/cmr/m/n/12 Актуализация
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 973--974
+[]|\T2A/cmr/m/n/12 Выводит за-да-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+[]|\T2A/cmr/m/n/12 Формулирует
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+\T2A/cmr/m/n/12 лем-му кол-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+\T2A/cmr/m/n/12 ли-не-ар-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+\T2A/cmr/m/n/12 век-то-рах. До-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+\T2A/cmr/m/n/12 ка-за-тель-ство
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 980--981
+\T2A/cmr/m/n/12 лем-мы. При-во-
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 980--981
+\T2A/cmr/m/n/12 дит за-да-чу на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
+[]|\T2A/cmr/m/n/12 Знакомятся
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
+\T2A/cmr/m/n/12 с лем-мой.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
+\T2A/cmr/m/n/12 За-пи-сы-ва-ют
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
+\T2A/cmr/m/n/12 до-ка-за-тель-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--987
+[]|\T2A/cmr/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--994
+[]|\T2A/cmr/m/n/12 Итоги уро-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 993--994
+\T2A/cmr/m/n/12 За-да-ние на
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 995--996
+\T2A/cmr/m/n/12 зуль-та-тов. Вы-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 999
+ []
+
+[42
+
+]
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 1012.
+
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 1012.
+
+Missing character: There is no М in font cmr12!
+Missing character: There is no Р in font cmr12!
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 1012.
+
+
+LaTeX Warning: Command \CYRR invalid in math mode on input line 1012.
+
+Missing character: There is no М in font cmr12!
+Missing character: There is no Р in font cmr12!
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1083
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1083
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1083--1084
+[]|\T2A/cmtt/m/n/12 Время
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1083--1084
+\T2A/cmtt/m/n/12 (мин)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1087
+\T2A/cmr/m/n/12 ционный мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+[]|\T2A/cmr/m/n/12 Приветствие,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T2A/cmr/m/n/12 про-вер-ка от-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T2A/cmr/m/n/12 сут-ству-ю-щих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1088
+\T2A/cmr/m/n/12 и го-тов-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1089
+[]|\T2A/cmr/m/n/12 Отчет де-жур-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1094
+[]|\T2A/cmr/m/n/12 Актуализация
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 1094--1095
+[]|\T2A/cmr/m/n/12 Выводит за-да-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1094--1095
+\T2A/cmr/m/n/12 чу на дос-ке и
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 1094--1095
+\T2A/cmr/m/n/12 пред-ла-га-ет ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+[]|\T2A/cmr/m/n/12 Напоминает
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 за-да-ние пря-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 мо-уголь-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 си-сте-мы ко-ор-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 ди-нат. Вво-дит
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 ко-ор-ди-нат-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 ные век-то-ры.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 Рас-смат-ри-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 ва-ет рав-ные
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 век-то-ры и ну-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 ле-вой век-тор.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 Рас-смат-ри-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 ва-ет пра-ви-ла
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/12 дей-ствий с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
+[]|\T2A/cmr/m/n/12 Знакомятся с
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 1102--1103
+\T2A/cmr/m/n/12 но-вым ма-те-ри-
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 1102--1103
+\T2A/cmr/m/n/12 а-лом. За-пи-сы-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1107--1108
+[]|\T2A/cmr/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+[]|\T2A/cmr/m/n/12 Организует
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+\T2A/cmr/m/n/12 ре-ше-ние за-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+\T2A/cmr/m/n/12 дач ќ 917;
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 1108--1109
+\T2A/cmr/m/n/12 918; 919; 920;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+\T2A/cmr/m/n/12 922-925(устно),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+\T2A/cmr/m/n/12 927(вы-пи-сать
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1115
+[]|\T2A/cmr/m/n/12 Коррекция и
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 1115--1116
+[]|\T2A/cmr/m/n/12 Предлагает са-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1115--1116
+\T2A/cmr/m/n/12 мо-сто-я-тель-ную
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1115--1116
+\T2A/cmr/m/n/12 ра-бо-ту по 2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1117
+\T2A/cmr/m/n/12 са-мо-сто-я-тель-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1122
+[]|\T2A/cmr/m/n/12 Итоги уро-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1122
+\T2A/cmr/m/n/12 За-да-ние на
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1123--1124
+\T2A/cmr/m/n/12 зуль-та-тов. Вы-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1127
+ []
+
+[44] [45]
+Overfull \hbox (0.9373pt too wide) in paragraph at lines 1173--1175
+[]\T2A/cmr/m/it/14.4 Если два век-то-ра кол-ли-не-ар-ны, то ко-ор-ди-на-ты од-
+ []
+
+[46]
+Overfull \hbox (6.02162pt too wide) in paragraph at lines 1217--1218
+[]\T2A/cmr/m/it/14.4 развивающие: \T2A/cmr/m/n/14.4 уме-ние ана-ли-зи-ро-вать, 
+рас-суж-дать, ло-ги-че-ски мыс-лить. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1237
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1237
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1237--1238
+[]|\T2A/cmtt/m/n/12 Время
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1237--1238
+\T2A/cmtt/m/n/12 (мин)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1241
+\T2A/cmr/m/n/12 ционный мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+[]|\T2A/cmr/m/n/12 Приветствие,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+\T2A/cmr/m/n/12 про-вер-ка от-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+\T2A/cmr/m/n/12 сут-ству-ю-щих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+\T2A/cmr/m/n/12 и го-тов-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1243
+[]|\T2A/cmr/m/n/12 Отчет де-жур-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1248
+[]|\T2A/cmr/m/n/12 Актуализация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1248
+\T2A/cmr/m/n/12 мо-сто-я-тель-ной
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 1248--1249
+[]|\T2A/cmr/m/n/12 Выводит за-да-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1248--1249
+\T2A/cmr/m/n/12 чу на дос-ке и
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 1248--1249
+\T2A/cmr/m/n/12 пред-ла-га-ет ре-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+[]|\T2A/cmr/m/n/12 Рассматривает
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+\T2A/cmr/m/n/12 ня-тие радиус-
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 1255--1256
+\T2A/cmr/m/n/12 вектора. Ре-ша-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+\T2A/cmr/m/n/12 вспо-мо-га-тель-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+\T2A/cmr/m/n/12 ные за-да-чи.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
+[]|\T2A/cmr/m/n/12 Знакомятся с
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 1256--1257
+\T2A/cmr/m/n/12 но-вым ма-те-ри-
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 1256--1257
+\T2A/cmr/m/n/12 а-лом. За-пи-сы-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
+\T2A/cmr/m/n/12 ва-ют по-ня-тие,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
+\T2A/cmr/m/n/12 ре-ше-ние вспо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
+\T2A/cmr/m/n/12 мо-га-тель-ных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1261--1262
+[]|\T2A/cmr/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
+[]|\T2A/cmr/m/n/12 Итоги уро-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1268--1269
+\T2A/cmr/m/n/12 За-да-ние на
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1270--1271
+\T2A/cmr/m/n/12 зуль-та-тов. Вы-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1274
+ []
+
+[47] [48] [49]
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1399
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1399
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1399--1400
+[]|\T2A/cmtt/m/n/12 Время
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1399--1400
+\T2A/cmtt/m/n/12 (мин)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1403
+\T2A/cmr/m/n/12 ционный мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+[]|\T2A/cmr/m/n/12 Приветствие,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+\T2A/cmr/m/n/12 про-вер-ка от-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+\T2A/cmr/m/n/12 сут-ству-ю-щих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1404
+\T2A/cmr/m/n/12 и го-тов-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
+[]|\T2A/cmr/m/n/12 Отчет де-жур-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
+[]|\T2A/cmr/m/n/12 Актуализация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+[]|\T2A/cmr/m/n/12 Выдает уча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+\T2A/cmr/m/n/12 щим-ся кар-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+\T2A/cmr/m/n/12 точ-ки для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+\T2A/cmr/m/n/12 са-мо-сто-я-тель-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+\T2A/cmr/m/n/12 ной ра-бо-ты.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+\T2A/cmr/m/n/12 С осталь-ны-ми
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 1410--1411
+\T2A/cmr/m/n/12 ре-ша-ет за-да-чи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1418
+\T2A/cmr/m/n/12 947(а); 946(б);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+[]|\T2A/cmr/m/n/12 Итоги уро-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
+\T2A/cmr/m/n/12 За-да-ние на
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1425--1426
+\T2A/cmr/m/n/12 зуль-та-тов. Вы-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1429
+ []
+
+[50]
+Overfull \hbox (21.27307pt too wide) in paragraph at lines 1461--1464
+\T2A/cmr/bx/n/14.4 Задача:  \T2A/cmr/m/n/14.4 Най-ди-те ко-ор-ди-на-ты се-ре-ди
+-ны от-рез-ка $\OML/cmm/m/it/14.4 DK$\T2A/cmr/m/n/14.4 , ес-ли $\OML/cmm/m/it/1
+4.4 D\OT1/cmr/m/n/14.4 (\OMS/cmsy/m/n/14.4  \OT1/cmr/m/n/14.4 6; 4)\OML/cmm/m/i
+t/14.4 ; K\OT1/cmr/m/n/14.4 (2; \OMS/cmsy/m/n/14.4  \OT1/cmr/m/n/14.4 8)$\T2A/c
+mr/m/n/14.4 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1461--1464
+
+ []
+
+[51] <triangle1.jpg, id=180, 114.6684pt x 122.3772pt>
+File: triangle1.jpg Graphic file (type jpg)
+ <use triangle1.jpg>
+Package pdftex.def Info: triangle1.jpg used on input line 1486.
+(pdftex.def)             Requested size: 117.36761pt x 125.26189pt.
+
+Overfull \hbox (5.71614pt too wide) in paragraph at lines 1498--1499
+$\OMS/cmsy/m/n/14.4 4\OML/cmm/m/it/14.4 ABC$ \T2A/cmr/m/it/14.4 -- рав-но-бед-р
+ен-ный. Най-дем его пло-щадь; про-ве-дем вы-со-ту $\OML/cmm/m/it/14.4 AM\OMS/cm
+sy/m/n/14.4 ?\OML/cmm/m/it/14.4 BC$\T2A/cmr/m/it/14.4 : 
+ []
+
+[52 <E:/РРЅСЃС‚РёС‚СѓС‚/РљСѓСЂСЃРѕРІР°СЏ 4 РєСѓСЂСЃ/CourseWorkIV/triangle1.jpg
+>] <parallelogram1.jpg, id=184, 173.448pt x 100.6962pt>
+File: parallelogram1.jpg Graphic file (type jpg)
+
+<use parallelogram1.jpg>
+Package pdftex.def Info: parallelogram1.jpg used on input line 1558.
+(pdftex.def)             Requested size: 117.36761pt x 68.13907pt.
+ [53 <E:/РРЅСЃС‚РёС‚СѓС‚/РљСѓСЂСЃРѕРІР°СЏ 4 РєСѓСЂСЃ/CourseWorkIV/parallelogra
+m1.jpg>] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 1641--1641
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1641--1641
+[]|\T2A/cmtt/m/n/12 Деятельность
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1641--1642
+[]|\T2A/cmtt/m/n/12 Время
+ []
+
+
+Overfull \hbox (2.41472pt too wide) in paragraph at lines 1641--1642
+\T2A/cmtt/m/n/12 (мин)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1644--1645
+\T2A/cmr/m/n/12 ционный мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1646
+[]|\T2A/cmr/m/n/12 Приветствие,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1646
+\T2A/cmr/m/n/12 про-вер-ка от-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1646
+\T2A/cmr/m/n/12 сут-ству-ю-щих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1645--1646
+\T2A/cmr/m/n/12 и го-тов-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1646--1647
+[]|\T2A/cmr/m/n/12 Отчет де-жур-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1651--1652
+[]|\T2A/cmr/m/n/12 Актуализация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1653
+[]|\T2A/cmr/m/n/12 Проводит ма-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1652--1653
+\T2A/cmr/m/n/12 те-ма-ти-че-ский
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+[]|\T2A/cmr/m/n/12 Отвечают на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+\T2A/cmr/m/n/12 во-про-сы ма-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+\T2A/cmr/m/n/12 те-ма-ти-че-ско-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+\T2A/cmr/m/n/12 дик-тан-та в
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 1653--1654
+\T2A/cmr/m/n/12 тет-ра-дях. Тет-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+[]|\T2A/cmr/m/n/12 Разбирает пя-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 тое за-да-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 ма-те-ма-ти-че-ско-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 го дик-тан-та.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 Об-ра-ща-ет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 вни-ма-ние на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 из-вест-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 неко-то-рых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 гра-фи-ков
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 функ-ций. Да-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 ет по-ня-тие
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 урав-не-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 про-из-воль-ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 ли-нии. Вво-
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 дит урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1659--1660
+\T2A/cmr/m/n/12 окруж-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+[]|\T2A/cmr/m/n/12 Разбираются
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 в пя-том за-да-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 нии дик-тан-та.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 Об-ра-ща-ют
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 вни-ма-ние на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 из-вест-ность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 фи-ков функ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 ют урав-не-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1662
+\T2A/cmr/m/n/12 окруж-но-сти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1666--1667
+[]|\T2A/cmr/m/n/12 Закрепление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1674
+[]|\T2A/cmr/m/n/12 Итоги уро-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1674
+\T2A/cmr/m/n/12 За-да-ние на
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1675--1676
+\T2A/cmr/m/n/12 зуль-та-тов. Вы-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1679
+ []
+
+[55]
+
+LaTeX Warning: Command \CYRA invalid in math mode on input line 1691.
+
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 1691.
+
+Missing character: There is no А in font cmr12!
+Missing character: There is no В in font cmr12!
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 1694.
+
+Missing character: There is no у in font cmr12!
+
+Overfull \hbox (6.35849pt too wide) in paragraph at lines 1697--1698
+[]\T2A/cmr/m/n/14.4 Вершины тре-уголь-ни-ка $\OML/cmm/m/it/14.4 ABC$ \T2A/cmr/m
+/n/14.4 име-ют сле-ду-ю-щие ко-ор-ди-на-ты: $\OML/cmm/m/it/14.4 A\OT1/cmr/m/n/1
+4.4 (8; \OMS/cmsy/m/n/14.4  \OT1/cmr/m/n/14.4 3)$\T2A/cmr/m/n/14.4 ,
+ []
+
+[56] [57] [58] [59] [60]
+Underfull \hbox (badness 1107) in paragraph at lines 1808--1809
+[]\T2A/cmr/m/n/14.4 Дудницын, Ю. П. Гео-мет-рия. 9 класс [Текст] : ра-бо-чая те
+т-радь
+ []
+
+[61]
+
+Package natbib Warning: There were multiply defined citations.
+
+[62] ("E:\РРЅСЃС‚РёС‚СѓС‚\РљСѓСЂСЃРѕРІР°СЏ 4 РєСѓСЂСЃ\CourseWorkIV\Gladkih.aux
+"
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
+Here is how much of TeX's memory you used:
+ 7042 strings out of 493921
+ 95726 string characters out of 3150887
+ 244268 words of memory out of 3000000
+ 10165 multiletter control sequences out of 15000+200000
+ 20012 words of font info for 56 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,9n,40p,1297b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Math/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Math/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Math/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Math/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Math/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/ms
+am10.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1440.pfb><C:/Math/
+MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Math/MiKTeX 2.9/fonts/t
+ype1/public/cm-super/sfrm1200.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/cm-sup
+er/sfrm1440.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C
+:/Math/MiKTeX 2.9/fonts/type1/public/cm-super/sfsl1200.pfb><C:/Math/MiKTeX 2.9/
+fonts/type1/public/cm-super/sfti0800.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public
+/cm-super/sfti1440.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1200
+.pfb><C:/Math/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on Gladkih.pdf (62 pages, 554604 bytes).
+PDF statistics:
+ 277 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
